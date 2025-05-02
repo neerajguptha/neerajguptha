@@ -39,7 +39,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajguptha&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect
-- 📧 Email: neerajkumarguptha08@gmail.com
+- 📧 Email: neerajkumarguptha366@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-guptha)
 - 🌐 [LeetCode](https://leetcode.com/u/neeraj_guptha/) | [HackerRank](https://www.hackerrank.com/profile/22x01a0492)
 
