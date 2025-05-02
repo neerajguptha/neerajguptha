@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**neerajguptha/neerajguptha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Neeraj Guptha!
+🎓 A 3rd-year Electronics & Communication Engineering student  
+💻 Passionate about **Full-Stack Web Development**
+🎯 Disciplined | Determined | Eager to Learn
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 [Wanderlust](https://project-0tng.onrender.com/listings)
+> A full-stack travel listing platform inspired by Airbnb  
+> `MongoDB` • `Express.js` • `Node.js` • `EJS` • `Mapbox` • `Cloudinary`
+
+### ☁️ [WeatherWise](https://weather-wise-web.netlify.app/)
+> A React app to fetch live weather updates via APIs  
+> `React` • `CSS` • `OpenWeather API`
+
+### 🧠 [Gemini AI Chat](https://gemini-ai-for-intelligentconversation.netlify.app/)
+> A chatbot project simulating Google’s Gemini with UI  
+> `JavaScript` • `HTML/CSS`
+
+### 🎵 [Spotify Clone](https://github.com/neerajguptha/Spotify_Clone)
+> UI clone of Spotify using only HTML & CSS  
+> `HTML` • `CSS`
+
+## 📫 Let's Connect
+- 📧 Email: neerajguptha08@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-guptha)
+- 🌐 [LeetCode](https://leetcode.com/u/neeraj_guptha/) | [HackerRank](https://www.hackerrank.com/profile/22x01a0492)
+
+
+  ---
+
+_“The best way to predict the future is to create it.” — Peter Drucker_
