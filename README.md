@@ -25,6 +25,10 @@
 > A chatbot project simulating Google’s Gemini with UI  
 > `JavaScript` • `HTML/CSS`
 
+🎮 [**Simon Says Color Game**](https://neerajguptha.github.io/Simon-Says-Color-Game-)  
+A memory-based color game simulating the popular Simon Says game  
+**HTML** • **CSS** • **JavaScript** • **DOM Manipulation**
+
 ### 🎵 [Spotify Clone](https://github.com/neerajguptha/Spotify_Clone)
 > UI clone of Spotify using only HTML & CSS  
 > `HTML` • `CSS`
