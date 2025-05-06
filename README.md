@@ -25,7 +25,7 @@
 > A chatbot project simulating Google’s Gemini with UI  
 > `JavaScript` • `HTML/CSS`
 
-### 🎮 [Simon Says Color Game](https://neerajguptha.github.io/Simon-Says-Color-Game-)
+### 🎮 [Simon Says Color Game](https://neerajguptha.github.io/Simon-Says-Color-Game-/)
 > A memory-based color game simulating the popular Simon Says game 
 > `JavaScript` • `DOM Manipulation` • `HTML/CSS` 
 
