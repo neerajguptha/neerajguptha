@@ -22,7 +22,7 @@
 > `React` • `CSS` • `OpenWeather API`
 
 ### 🧠 [Gemini AI Chat](https://gemini-ai-for-intelligentconversation.netlify.app/)
-> A chatbot project simulating Google’s Gemini with UI  
+> A chatbot project simulating Google’s Gemini with UI
 > `JavaScript` • `HTML/CSS`
 
 ### 🎮 [Simon Says Color Game](https://neerajguptha.github.io/Simon-Says-Color-Game-/)
