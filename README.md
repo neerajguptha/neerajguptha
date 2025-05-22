@@ -27,7 +27,7 @@
 
 ### 🎮 [Simon Says Color Game](https://neerajguptha.github.io/Simon-Says-Color-Game-/)
 > A memory-based color game simulating the popular Simon Says game 
-> `JavaScript` • `DOM Manipulation` • `HTML/CSS` 
+> <br>`JavaScript` • `DOM Manipulation` • `HTML/CSS` 
 
 ### 🎵 [Spotify Clone](https://neerajguptha.github.io/Spotify_Clone/)
 > UI clone of Spotify using only HTML & CSS  
