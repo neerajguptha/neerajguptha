@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Neeraj Guptha!
-🎓 A 3rd-year Electronics & Communication Engineering student  
+🎓 A final year Electronics & Communication Engineering student
 💻 Full-stack developer | Tech Enthusiast | Open-source Contributor  
 
 ## 🛠️ Tech Stack
