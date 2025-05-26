@@ -27,7 +27,11 @@
 
 ### 🎮 [Simon Says Color Game](https://neerajguptha.github.io/Simon-Says-Color-Game-/)
 > A memory-based color game simulating the popular Simon Says game 
-> <br>`JavaScript` • `DOM Manipulation` • `HTML/CSS` 
+> <br>`JavaScript` • `DOM Manipulation` • `HTML/CSS`
+
+### 🎲 [Tic-Tac-Toe Game](https://neerajguptha.github.io/Tic-Tac-Toe-Game/)
+> A classic Tic-Tac-Toe game for two players with a clean UI and real-time winner display
+> <br> `JavaScript` • `HTML/CSS` • `DOM Manipulation`
 
 ### 🎵 [Spotify Clone](https://neerajguptha.github.io/Spotify_Clone/)
 > UI clone of Spotify using only HTML & CSS  
