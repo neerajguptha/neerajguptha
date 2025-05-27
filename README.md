@@ -32,7 +32,9 @@
 ### 🎲 [Tic-Tac-Toe Game](https://neerajguptha.github.io/Tic-Tac-Toe-Game/)
 > A classic Tic-Tac-Toe game for two players with a clean UI and real-time winner display
 > <br> `JavaScript` • `HTML/CSS` • `DOM Manipulation`
-
+### 🧮 [Advanced Calculator](https://neerajguptha.github.io/Advanced-Calculator/)
+> A modern, responsive calculator with dark mode, sound feedback, and advanced operations
+> <br> `JavaScript` • `HTML/CSS` • `Bootstrap` • `Responsive Design` • `Dark Mode`
 ### 🎵 [Spotify Clone](https://neerajguptha.github.io/Spotify_Clone/)
 > UI clone of Spotify using only HTML & CSS  
 > `HTML` • `CSS`
