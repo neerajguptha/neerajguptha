@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 🔥 Featured Projects
+### 🔥 Featured Projects
 
 ### 🌍 [Wanderlust](https://project-0tng.onrender.com/listings)
 > A full-stack travel listing platform inspired by Airbnb  
