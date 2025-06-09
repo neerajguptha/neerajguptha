@@ -23,7 +23,7 @@
 
 ### 🧠 [Gemini AI Chat](https://gemini-ai-for-intelligentconversation.netlify.app/)
 > A chatbot project simulating Google’s Gemini with UI
-> <br>`JavaScript` • `HTML/CSS`
+> <br>`JavaScript` • `HTML/CSS` • `Fetch API` 
 
 ### 🎮 [Simon Says Color Game](https://neerajguptha.github.io/Simon-Says-Color-Game-/)
 > A memory-based color game simulating the popular Simon Says game 
